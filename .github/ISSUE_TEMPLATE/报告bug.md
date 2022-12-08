@@ -2,7 +2,7 @@
 name: 报告Bug
 about: 提交一个Bug帮助我们改进
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
