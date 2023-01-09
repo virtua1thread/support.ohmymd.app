@@ -1,3 +1,3 @@
 # support.ohmymd.app
 
-![icon](./icon.png)
+![icon](./128x128.png)
